@@ -1,1 +1,23 @@
-{}
+[
+    {
+        "Title": "Test Title",
+        "Summary": "Test Summary",
+        "Tags": [
+            "tag1",
+            "tag2"
+        ],
+        "FileName": "test.md"
+    },
+    {
+        "Title": "The Quiet Erosion of Enough",
+        "Summary": "A decade ago, certain comforts and milestones felt within reach for the middle class. Today, they are increasingly distant, revealing a silent shift in what \"normal\" means.",
+        "Tags": [
+            "[Middle Class",
+            "Affordability",
+            "Cost of Living",
+            "Economic Reality",
+            "Resilience]"
+        ],
+        "FileName": "The Quiet Erosion of Enough.md"
+    }
+]
