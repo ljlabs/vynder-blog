@@ -2,6 +2,7 @@
 Title: The Quiet Erosion of Enough
 Summary: A decade ago, certain comforts and milestones felt within reach for the middle class. Today, they are increasingly distant, revealing a silent shift in what "normal" means.
 Tags: [Middle Class, Affordability, Cost of Living, Economic Reality, Resilience]
+Image: https://images.unsplash.com/photo-1726334487986-6f90bfa9e87a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxtb2Rlc3QlMjBzdWJ1cmJhbiUyMGhvdXNlfGVufDB8fHx8MTc2MjE5NjQyMXww&ixlib=rb-4.1.0&q=85
 ---
 
 There’s a specific kind of resilience that develops when you’re navigating life without backup. It’s not the kind that makes headlines or inspires grand speeches. It’s the quiet, everyday kind, born from the slow, steady erosion of what once felt like a given. We’re talking about the things that, just ten years ago, were simply *normal* for a middle-class life. Not luxuries, but the foundational elements that allowed for a sense of stability, a bit of breathing room, and the quiet dignity of providing for your own.
