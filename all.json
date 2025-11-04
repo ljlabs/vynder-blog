@@ -2,7 +2,13 @@
     {
         "Title": "The Quiet Erosion of Enough",
         "Summary": "A decade ago, certain comforts and milestones felt within reach for the middle class. Today, they are increasingly distant, revealing a silent shift in what \"normal\" means.",
-        "Tags": [],
-        "FileName": "The Quiet Erosion of Enough.md"
+        "Tags": [
+            "Middle Class",
+            "Affordability",
+            "Cost of Living",
+            "Economic Reality",
+            "Resilience"
+        ],
+        "url": "https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md"
     }
 ]

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" version="2.0">
+  <channel>
+    <title>Vynder Blog</title>
+    <description>Blog posts from Vynder</description>
+    <link>https://github.com/ljlabs/vynder-blog</link>
+    <generator>Python RSS Generator</generator>
+    <lastBuildDate>Tue, 04 Nov 2025 07:12:42 GMT</lastBuildDate>
+    <ns0:link href="https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/blogPosts/all.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Quiet Erosion of Enough</title>
+      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md</link>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md</guid>
+      <category>Middle Class</category>
+      <category>Affordability</category>
+      <category>Cost of Living</category>
+      <category>Economic Reality</category>
+      <category>Resilience</category>
+      <description>A decade ago, certain comforts and milestones felt within reach for the middle class. Today, they are increasingly distant, revealing a silent shift in what &quot;normal&quot; means.</description>
+      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md</link>
+      <pubDate>Tue, 04 Nov 2025 07:12:42 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
