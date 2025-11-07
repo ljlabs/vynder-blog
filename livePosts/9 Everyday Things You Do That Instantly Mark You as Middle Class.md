@@ -2,7 +2,7 @@
 Title: 9 Everyday Things You Do That Instantly Mark You as Middle Class
 Summary: The quiet habits and unspoken understandings that reveal a life lived with careful calculation, where resilience is built into the daily routine.
 Tags: [Middle Class, Everyday Life, Resilience, Financial Habits, Social Observation]
-Image: https://images.unsplash.com/photo-1521737711867-ee1ab9a0987f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxtb2Rlc3QlMjBob21lJTIwZnJvbnQlMjBwb3JjaHxlbnwwfHx8fDE3NjI1MDMxMzJ8MA&ixlib=rb-4.1.0&q=85
+Image: https://images.unsplash.com/photo-1665809052658-32e8e35fba92?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw2fHw5JTIwRXZlcnlkYXklMjBUaGluZ3MlMjBZb3UlMjBEbyUyMFRoYXQlMjBJbnN0YW50bHklMjBNYXJrJTIwWW91JTIwYXMlMjBNaWRkbGUlMjBDbGFzc3xlbnwwfHx8fDE3NjI1MTU5MTZ8MA&ixlib=rb-4.1.0&q=85
 ---
 There's a language spoken not in words, but in the quiet rhythms of our days, in the small choices we make without thinking. It's a language that tells a story about where we stand in the world, about the invisible lines that shape our lives. For many of us, these subtle cues speak of a middle-class existence, a space defined not by grand gestures or stark deprivation, but by a constant, often unspoken, negotiation with "enough." It's a life where comfort is earned, not assumed, and where resilience is woven into the fabric of everyday habits.
 
