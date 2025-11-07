@@ -5,7 +5,7 @@
     <description>Blog posts from Vynder</description>
     <link>https://github.com/ljlabs/vynder-blog</link>
     <generator>Python RSS Generator</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 12:33:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 12:58:55 GMT</lastBuildDate>
     <ns0:link href="https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/blogPosts/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets</title>
@@ -13,16 +13,29 @@
       <image>https://images.unsplash.com/photo-1658867851985-4b7f06612ba7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxBJTIwc21hbGwlMkMlMjB3ZWxsLW1haW50YWluZWQlMjBiYWNreWFyZCUyMGdhcmRlbiUyMHdpdGglMjBmbG93ZXJzJTIwYW5kJTIwYSUyMHBhdGlvfGVufDB8fHx8MTc2MjUwNzM0OXww&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</guid>
       <category>Gardening</category>
-      <category>Farmer's Market</category>
-      <category>Boomers</category>
+      <category>Farmers</category>
       <category>Gen Z</category>
-      <category>Food Trends</category>
-      <category>Sustainable Living</category>
+      <category>Sustainability</category>
       <category>Nostalgia</category>
-      <category>Homegrown</category>
       <description>The quiet revolution of the backyard garden, where everyday produce once freely shared now commands a price, reflecting a shift in our connection to food and its origins.</description>
       <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</content_url>
-      <pubDate>Fri, 07 Nov 2025 12:33:26 GMT</pubDate>
+      <pubDate>Fri, 07 Nov 2025 12:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>8 Ways Keeping Things Private Is a Quiet Strenth, According to a Mindfulness Expert</title>
+      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/8 Things You Should Probably Keep To Yourself_ According to a Mindfulness Expert.md</link>
+      <image>https://images.unsplash.com/photo-1605380911241-60fef15fa8e3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldGx5JTIwY29udGVtcGxhdGluZyUyMGZ1dHVyZSUyMGdvYWxzfGVufDB8fHx8MTc2MjUxOTU3Mnww&amp;ixlib=rb-4.1.0&amp;q=85</image>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/8 Things You Should Probably Keep To Yourself_ According to a Mindfulness Expert.md</guid>
+      <category>Mindfulness</category>
+      <category>Privacy</category>
+      <category>Inner Peace</category>
+      <category>Self-Care</category>
+      <category>Emotional Intelligence</category>
+      <category>Personal Growth</category>
+      <category>Resilience</category>
+      <description>In a world that demands constant sharing, discover the quiet wisdom of cultivating an inner sanctuary, where true resilience and authenticity take root away from external noise.</description>
+      <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/8 Things You Should Probably Keep To Yourself_ According to a Mindfulness Expert.md</content_url>
+      <pubDate>Fri, 07 Nov 2025 12:58:55 GMT</pubDate>
     </item>
     <item>
       <title>9 Everyday Things You Do That Instantly Mark You as Middle Class</title>
@@ -36,7 +49,7 @@
       <category>Social Observation</category>
       <description>The quiet habits and unspoken understandings that reveal a life lived with careful calculation, where resilience is built into the daily routine.</description>
       <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</content_url>
-      <pubDate>Fri, 07 Nov 2025 12:33:26 GMT</pubDate>
+      <pubDate>Fri, 07 Nov 2025 12:58:55 GMT</pubDate>
     </item>
   </channel>
 </rss>

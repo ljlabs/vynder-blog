@@ -1,7 +1,7 @@
 ---
 Title: 7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets
 Summary: The quiet revolution of the backyard garden, where everyday produce once freely shared now commands a price, reflecting a shift in our connection to food and its origins.
-Tags: [Gardening, Farmer's Market, Boomers, Gen Z, Food Trends, Sustainable Living, Nostalgia, Homegrown]
+Tags: [Gardening, Farmers, Gen Z, Sustainability, Nostalgia]
 Image: https://images.unsplash.com/photo-1658867851985-4b7f06612ba7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxBJTIwc21hbGwlMkMlMjB3ZWxsLW1haW50YWluZWQlMjBiYWNreWFyZCUyMGdhcmRlbiUyMHdpdGglMjBmbG93ZXJzJTIwYW5kJTIwYSUyMHBhdGlvfGVufDB8fHx8MTc2MjUwNzM0OXww&ixlib=rb-4.1.0&q=85
 ---
 There's a quiet irony in the way we've come to value food. What was once a staple, grown with calloused hands and shared freely across fences, now often appears under a spotlight, carefully arranged, and priced for its perceived rarity. For many Boomers, a backyard garden wasn't just a hobby; it was a practical extension of the kitchen, a way to stretch a dollar and ensure fresh, wholesome food for the family. They knew the taste of a tomato still waarm from the sun, the scent of basil crushed between fingers, and the simple satisfaction of abundance.
