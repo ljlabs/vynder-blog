@@ -5,7 +5,7 @@
     <description>Blog posts from Vynder</description>
     <link>https://github.com/ljlabs/vynder-blog</link>
     <generator>Python RSS Generator</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 11:46:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 11:54:23 GMT</lastBuildDate>
     <ns0:link href="https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/blogPosts/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets</title>
@@ -22,7 +22,7 @@
       <category>Homegrown</category>
       <description>The quiet revolution of the backyard garden, where everyday produce once freely shared now commands a price, reflecting a shift in our connection to food and its origins.</description>
       <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</content_url>
-      <pubDate>Fri, 07 Nov 2025 11:46:41 GMT</pubDate>
+      <pubDate>Fri, 07 Nov 2025 11:54:23 GMT</pubDate>
     </item>
     <item>
       <title>9 Everyday Things You Do That Instantly Mark You as Middle Class</title>
@@ -36,7 +36,7 @@
       <category>Social Observation</category>
       <description>The quiet habits and unspoken understandings that reveal a life lived with careful calculation, where resilience is built into the daily routine.</description>
       <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</content_url>
-      <pubDate>Fri, 07 Nov 2025 11:46:41 GMT</pubDate>
+      <pubDate>Fri, 07 Nov 2025 11:54:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
