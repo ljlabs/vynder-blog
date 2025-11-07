@@ -47,7 +47,7 @@ Anyone who has ever grown zucchini knows the sheer abundance of the plant. And w
 While not every Boomer grew their own garlic, many did, especially those with a passion for cooking. They understood the difference between a fresh, pungent clove and the often-milder supermarket varieties. Hardneck garlic, with its robust flavor and easy-to-peel cloves, was a common choice. Today, specialty garlic, particularly unique hardneck varieties, is a prized item at farmer's markets, celebrated for its intense flavor and culinary versatility, a far cry from the generic white bulbs we often find elsewhere.
 
 ### 7. Gourmet Radishes
-![Assortment of heirloom tomatoes in various colors.](https://images.unsplash.com/photo-1758221055853-479a0de23e66?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw1fHxoZWlybG9vbSUyMHRvbWF0b2VzJTIwZ2FyZGVufGVufDB8fHx8MTc2MjUxNDgwNXww&ixlib=rb-4.1.0&q=85)
+![a bunch of radishes with green leaves on a white background](https://images.unsplash.com/photo-1701960978767-ae393bb80f04?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxNnx8UmFkaXNoZXN8ZW58MHx8fHwxNzYyNTE2NTgyfDA&ixlib=rb-4.1.0&q=85)
 
 Radishes were a quick and easy crop for many backyard gardeners, offering a peppery crunch and a splash of color. While the classic red globe was common, many also experimented with different varieties. Today, farmer's markets showcase an array of "gourmet" radishes—French Breakfast, Watermelon, Easter Egg—celebrated for their nuanced flavors and beautiful appearance. What was once a simple, humble root vegetable has become a sophisticated addition to salads and appetizers, a testament to the enduring appeal of fresh, homegrown produce.
 
