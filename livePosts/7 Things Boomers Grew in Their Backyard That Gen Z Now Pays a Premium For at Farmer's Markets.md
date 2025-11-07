@@ -24,7 +24,7 @@ A small patch of basil, a sprawling mint plant, a hardy rosemary bush—these we
 
 ### 3. Organic Berries
 
-![A close-up of ripe red strawberries on a vine in a garden.](https://images.unsplash.com/photo-1587393874162-e6013379001d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwYmVycmllcyUyMGdhcmRlbnxlbnwwfHx8fDE3NjI1MTU1NDl8MA&ixlib=rb-4.1.0&q=85)
+![a group of red strawberries](https://images.unsplash.com/photo-1655745570225-d92558d90e7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxyaXBlJTIwcmVkJTIwc3RyYXdiZXJyaWVzfGVufDB8fHx8MTc2MjUxODY4MHww&ixlib=rb-4.1.0&q=85)
 
 Strawberries, raspberries, blueberries—many Boomer backyards boasted a small berry patch, a source of sweet summer treats and ingredients for homemade jams. These berries were, by default, organic, grown without chemical intervention because that was simply how it was done. The joy was in the picking, the stained fingers, and the immediate gratification. Now, we seek out "certified organic" berries, understanding the value of fruit grown without pesticides, and we pay for the peace of mind and the superior flavor that our elders enjoyed as a matter of course.
 
