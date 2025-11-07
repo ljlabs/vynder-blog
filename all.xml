@@ -5,40 +5,38 @@
     <description>Blog posts from Vynder</description>
     <link>https://github.com/ljlabs/vynder-blog</link>
     <generator>Python RSS Generator</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 09:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 11:37:38 GMT</lastBuildDate>
     <ns0:link href="https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/blogPosts/all.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>10 Subtle Ways Your Definition of â€˜Successâ€™ Has Been Rewritten</title>
-      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/10 Subtle Ways Your Definition of _Success_ Has Been Rewritten.md</link>
-      <image>https://images.unsplash.com/photo-1684488624316-774ea1824d97?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBsb29raW5nJTIwYXQlMjBwaG9uZSUyMGxhdGUlMjBhdCUyMG5pZ2h0JTJDJTIwd29yayUyMHN0cmVzc3xlbnwwfHx8fDE3NjIyNDg3MDF8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/10 Subtle Ways Your Definition of _Success_ Has Been Rewritten.md</guid>
-      <category>Success</category>
-      <category>Modern Life</category>
-      <category>Fulfillment</category>
-      <category>Performance</category>
-      <category>Work-Life Balance</category>
-      <category>Social Media</category>
-      <category>Financial Stress</category>
-      <category>Gig Economy</category>
-      <category>Self-Improvement</category>
-      <category>Community</category>
-      <description>Modern adulthood has quietly shifted our understanding of success, replacing genuine fulfillment with an endless pursuit of performance and external validation. This essay explores the subtle ways this redefinition impacts our daily lives.</description>
-      <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/10 Subtle Ways Your Definition of _Success_ Has Been Rewritten.md</content_url>
-      <pubDate>Tue, 04 Nov 2025 09:35:27 GMT</pubDate>
+      <title>7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets</title>
+      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</link>
+      <image>https://images.unsplash.com/photo-1598103442097-8b74394b876a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxiYWNreWFyZCUyMGdhcmRlbnxlbnwwfHx8fDE3NjI1MTQ3ODV8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</guid>
+      <category>Gardening</category>
+      <category>Farmer's Market</category>
+      <category>Boomers</category>
+      <category>Gen Z</category>
+      <category>Food Trends</category>
+      <category>Sustainable Living</category>
+      <category>Nostalgia</category>
+      <category>Homegrown</category>
+      <description>The quiet revolution of the backyard garden, where everyday produce once freely shared now commands a price, reflecting a shift in our connection to food and its origins.</description>
+      <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</content_url>
+      <pubDate>Fri, 07 Nov 2025 11:37:38 GMT</pubDate>
     </item>
     <item>
-      <title>The Quiet Erosion of Enough</title>
-      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md</link>
-      <image>https://images.unsplash.com/photo-1726334487986-6f90bfa9e87a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxtb2Rlc3QlMjBzdWJ1cmJhbiUyMGhvdXNlfGVufDB8fHx8MTc2MjE5NjQyMXww&amp;ixlib=rb-4.1.0&amp;q=85</image>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md</guid>
+      <title>9 Everyday Things You Do That Instantly Mark You as Middle Class</title>
+      <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</link>
+      <image>https://images.unsplash.com/photo-1521737711867-ee1ab9a0987f?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxtb2Rlc3QlMjBob21lJTIwZnJvbnQlMjBwb3JjaHxlbnwwfHx8fDE3NjI1MDMxMzJ8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</guid>
       <category>Middle Class</category>
-      <category>Affordability</category>
-      <category>Cost of Living</category>
-      <category>Economic Reality</category>
+      <category>Everyday Life</category>
       <category>Resilience</category>
-      <description>A decade ago, certain comforts and milestones felt within reach for the middle class. Today, they are increasingly distant, revealing a silent shift in what &quot;normal&quot; means.</description>
-      <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/draftBlogPosts/The Quiet Erosion of Enough.md</content_url>
-      <pubDate>Tue, 04 Nov 2025 09:35:27 GMT</pubDate>
+      <category>Financial Habits</category>
+      <category>Social Observation</category>
+      <description>The quiet habits and unspoken understandings that reveal a life lived with careful calculation, where resilience is built into the daily routine.</description>
+      <content_url>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</content_url>
+      <pubDate>Fri, 07 Nov 2025 11:37:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
