@@ -1,7 +1,7 @@
 ---
 Title: 7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets
 Summary: The quiet revolution of the backyard garden, where everyday produce once freely shared now commands a price, reflecting a shift in our connection to food and its origins.
-Tags: [Gardening, Farmers, Gen Z, Sustainability, Nostalgia]
+Tags: ['Gardening', 'Farmers', 'Gen Z', 'Sustainability', 'Nostalgia']
 Image: https://images.unsplash.com/photo-1658867851985-4b7f06612ba7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxBJTIwc21hbGwlMkMlMjB3ZWxsLW1haW50YWluZWQlMjBiYWNreWFyZCUyMGdhcmRlbiUyMHdpdGglMjBmbG93ZXJzJTIwYW5kJTIwYSUyMHBhdGlvfGVufDB8fHx8MTc2MjUwNzM0OXww&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-08T07:17:17.493167+00:00
 EditedAt: 2025-11-08T07:17:17.493167+00:00
