@@ -1,14 +1,14 @@
 ---
 Title: If You Grew Up Poor, These 10 Money Habits Are Still Sabotaging Your Adult Life in 2025
 Summary: Growing up with scarcity leaves a quiet mark, shaping our relationship with money long after circumstances change. This essay explores 10 ingrained habits and gentle ways to rewrite those narratives for lasting financial and emotional freedom.
-Tags: ['Scarcity Mindset', 'Money Habits', 'Adulting', 'Personal Finance', 'Financial Wellness']
+Tags: [Scarcity Mindset, Money Habits, Adulting, Personal Finance, Financial Wellness]
 Image: https://images.unsplash.com/photo-1664027337355-b2bb1c4dc463?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHw5JTIwVGhpbmdzJTIwVGhhdCUyMEZlZWwlMjBOb3JtYWwlMjBpbiUyME1pZGRsZS1DbGFzcyUyMEhvbWVzJTIwYnV0JTIwU2NyZWFtcyUyMCUyMk5ldyUyME1vbmV5JTIyJTIwdG8lMjBPbGQtTW9uZXklMjBGYW1pbGllc3xlbnwwfHx8fDE3NjI2MzEzMDN8MA&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-09T05:28:56.538084+00:00
 EditedAt: 2025-11-09T05:28:56.538084+00:00
 ---
 Growing up without enough leaves an indelible mark, a quiet echo that can follow us long after our circumstances change. It's not just about the empty cupboards or the worn-out shoes; it's about the scarcity mindset that takes root, shaping our perceptions of money, worth, and opportunity. Even when we've built a life of stability, these old patterns can subtly sabotage our adult lives, keeping us in loops of under-earning, over-apologizing, and a persistent feeling that we're never quite "enough."
 
-This isn't about blame or shame. It's about understanding the deep-seated resilience that developed in those lean years, and recognizing that some of those very coping mechanisms, once vital for survival, can now hinder our growth. A therapist understands that these aren't character flaws, but learned responses to trauma. The path forward isn't about forgetting our past, but about gently rewriting the narratives that no longer serve us, cultivating a new kind of financial and emotional freedom.
+This [isn't about](https://vynder.web.app/articles/9-everyday-things-you-do-that-instantly-mark-you-as-middle-class) blame or shame. It's [about understanding the](https://vynder.web.app/articles/9-everyday-things-you-do-that-instantly-mark-you-as-middle-class) deep-seated resilience that developed in those lean years, and recognizing that some of those very coping mechanisms, once vital for survival, can now hinder our growth. A therapist understands that these aren't character flaws, but learned responses to trauma. The path forward isn't about forgetting our past, but about gently rewriting the narratives that no longer serve us, cultivating a new kind of financial and emotional freedom.
 
 Here are 10 money habits, born from a scarcity mindset, that might still be holding you back, along with therapist-approved ways to begin breaking those loops:
 
@@ -92,4 +92,4 @@ Even when you achieve financial stability, a lingering sense of guilt, fear that
 
 **To break the loop:** Practice mindful appreciation for your financial well-being. Celebrate small wins and acknowledge your progress. Allow yourself to experience joy and security without guilt. Consider how you can use your resources to create experiences and memories, rather than just accumulating. Giving back can also help shift the focus from personal gain to collective well-being, fostering a healthier relationship with money.
 
-Breaking these deeply ingrained habits is a journey, not a destination. It requires patience, self-compassion, and a willingness to confront the quiet echoes of your past. But by gently challenging these scarcity mindset loops, you can begin to build a financial life that is not only stable but also deeply fulfilling, rooted in a newfound sense of worth and abundance. It's a quiet act of healing, a testament to your enduring resilience.
+Breaking these deeply ingrained habits is a journey, not a destination. It requires patience, self-compassion, and a willingness to confront the quiet echoes of your past. But by gently challenging these scarcity mindset loops, you can begin to build a financial life that is not only stable but also deeply fulfilling, rooted in a newfound sense of worth and abundance. It's a quiet act of healing, [a testament to](https://vynder.web.app/articles/quiet-luxury-habits) your enduring resilience.
