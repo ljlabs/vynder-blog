@@ -1,7 +1,7 @@
 ---
 Title: Quiet Luxury Habits: 8 Morning Routines Rich People Never Post About (But Do Every Day)
 Summary: In a world of curated feeds, true affluence often thrives in the quiet, unseen moments. Discover the understated morning rituals that cultivate peace, purpose, and resilience, far from the clamor of external validation.
-Tags: [Quiet Luxury, Morning Routine, Wealth Habits, Stealth Wealth, Mindfulness, Daily Rituals, Self-Care, Disconnection, Intentional Living]
+Tags: ['Quiet Luxury', 'Morning Routine', 'Wealth Habits', 'Stealth Wealth', 'Mindfulness', 'Daily Rituals', 'Self-Care', 'Disconnection', 'Intentional Living']
 Image: https://images.unsplash.com/photo-1746549835375-c86dcb92c8da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxRdWlldCUyMEx1eHVyeSUyMEhhYml0c3xlbnwwfHx8fDE3NjI2MzE0MTd8MA&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-09T05:28:56.548160+00:00
 EditedAt: 2025-11-09T05:28:56.548160+00:00
