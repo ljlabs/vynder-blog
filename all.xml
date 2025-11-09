@@ -5,22 +5,22 @@
     <description>Blog posts from Vynder</description>
     <link>https://github.com/ljlabs/vynder-blog</link>
     <generator>Python RSS Generator</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 06:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 06:41:10 GMT</lastBuildDate>
     <ns0:link href="https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/blogPosts/all.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>11 Dinners Every Working-Class Kid in the 80s Ate on Weeknights (That Gen Z Now Pays $45 For)</title>
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/11 Dinners Every Working-Class Kid in the 80s Ate on Weeknights _That Gen Z Now .md</link>
       <image>https://images.unsplash.com/photo-1568342015942-6f399210edbf?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxMXx8QSUyMHNsaWNlJTIwb2YlMjBtZWF0bG9hZiUyMHdpdGglMjBtYXNoZWQlMjBwb3RhdG9lcyUyMGFuZCUyMGdyZWVuJTIwYmVhbnMufGVufDB8fHx8MTc2MjYzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/11 Dinners Every Working-Class Kid in the 80s Ate on Weeknights _That Gen Z Now .md</guid>
-      <category>'Nostalgia'</category>
-      <category>'Working Class'</category>
-      <category>'Comfort Food'</category>
-      <category>'Gen Z'</category>
-      <category>'Food Trends'</category>
+      <category>Nostalgia</category>
+      <category>Working Class</category>
+      <category>Comfort Food</category>
+      <category>Gen Z</category>
+      <category>Food Trends</category>
       <content:encoded>&lt;![CDATA[---
 Title: 11 Dinners Every Working-Class Kid in the 80s Ate on Weeknights (That Gen Z Now Pays $45 For)
 Summary: From budget-friendly staples to unexpected gourmet revivals, explore how the comforting weeknight meals of 1980s working-class childhoods are now gracing menus in surprising, and often expensive, new forms.
-Tags: ['Nostalgia', 'Working Class', 'Comfort Food', 'Gen Z', 'Food Trends']
+Tags: [Nostalgia, Working Class, Comfort Food, Gen Z, Food Trends]
 Image: https://images.unsplash.com/photo-1568342015942-6f399210edbf?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxMXx8QSUyMHNsaWNlJTIwb2YlMjBtZWF0bG9hZiUyMHdpdGglMjBtYXNoZWQlMjBwb3RhdG9lcyUyMGFuZCUyMGdyZWVuJTIwYmVhbnMufGVufDB8fHx8MTc2MjYzMDA4MHww&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-09T05:28:56.431653+00:00
 EditedAt: 2025-11-09T05:28:56.431653+00:00
@@ -71,15 +71,15 @@ The quiet truth is that good food, at its heart, is about comfort, connection, a
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</link>
       <image>https://images.unsplash.com/photo-1658867851985-4b7f06612ba7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxBJTIwc21hbGwlMkMlMjB3ZWxsLW1haW50YWluZWQlMjBiYWNreWFyZCUyMGdhcmRlbiUyMHdpdGglMjBmbG93ZXJzJTIwYW5kJTIwYSUyMHBhdGlvfGVufDB8fHx8MTc2MjUwNzM0OXww&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets.md</guid>
-      <category>'Gardening'</category>
-      <category>'Farmers'</category>
-      <category>'Gen Z'</category>
-      <category>'Sustainability'</category>
-      <category>'Nostalgia'</category>
+      <category>Gardening</category>
+      <category>Farmers</category>
+      <category>Gen Z</category>
+      <category>Sustainability</category>
+      <category>Nostalgia</category>
       <content:encoded>&lt;![CDATA[---
 Title: 7 Things Boomers Grew in Their Backyard That Gen Z Now Pays a Premium For at Farmer's Markets
 Summary: The quiet revolution of the backyard garden, where everyday produce once freely shared now commands a price, reflecting a shift in our connection to food and its origins.
-Tags: ['Gardening', 'Farmers', 'Gen Z', 'Sustainability', 'Nostalgia']
+Tags: [Gardening, Farmers, Gen Z, Sustainability, Nostalgia]
 Image: https://images.unsplash.com/photo-1658867851985-4b7f06612ba7?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxBJTIwc21hbGwlMkMlMjB3ZWxsLW1haW50YWluZWQlMjBiYWNreWFyZCUyMGdhcmRlbiUyMHdpdGglMjBmbG93ZXJzJTIwYW5kJTIwYSUyMHBhdGlvfGVufDB8fHx8MTc2MjUwNzM0OXww&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-08T07:17:17.493167+00:00
 EditedAt: 2025-11-08T07:17:17.493167+00:00
@@ -118,15 +118,15 @@ The shift is clear: what was once a necessity, a quiet act of self-sufficiency, 
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/8 Things You Should Probably Keep To Yourself_ According to a Mindfulness Expert.md</link>
       <image>https://images.unsplash.com/photo-1605380911241-60fef15fa8e3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldGx5JTIwY29udGVtcGxhdGluZyUyMGZ1dHVyZSUyMGdvYWxzfGVufDB8fHx8MTc2MjUxOTU3Mnww&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/8 Things You Should Probably Keep To Yourself_ According to a Mindfulness Expert.md</guid>
-      <category>'Mindfulness'</category>
-      <category>'Privacy'</category>
-      <category>'Self Care'</category>
-      <category>'Personal Growth'</category>
-      <category>'Resilience'</category>
+      <category>Mindfulness</category>
+      <category>Privacy</category>
+      <category>Self Care</category>
+      <category>Personal Growth</category>
+      <category>Resilience</category>
       <content:encoded>&lt;![CDATA[---
 Title: 8 Ways Keeping Things Private Is a Quiet Strenth, According to a Mindfulness Expert
 Summary: In a world that demands constant sharing, discover the quiet wisdom of cultivating an inner sanctuary, where true resilience and authenticity take root away from external noise.
-Tags: ['Mindfulness', 'Privacy', 'Self Care', 'Personal Growth', 'Resilience']
+Tags: [Mindfulness, Privacy, Self Care, Personal Growth, Resilience]
 Image: https://images.unsplash.com/photo-1605380911241-60fef15fa8e3?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldGx5JTIwY29udGVtcGxhdGluZyUyMGZ1dHVyZSUyMGdvYWxzfGVufDB8fHx8MTc2MjUxOTU3Mnww&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-08T07:17:17.517264+00:00
 EditedAt: 2025-11-08T07:17:17.517264+00:00
@@ -168,15 +168,15 @@ When we are on the cusp of a significant life change-a career move, a relocation
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</link>
       <image>https://images.unsplash.com/photo-1665809052658-32e8e35fba92?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw2fHw5JTIwRXZlcnlkYXklMjBUaGluZ3MlMjBZb3UlMjBEbyUyMFRoYXQlMjBJbnN0YW50bHklMjBNYXJrJTIwWW91JTIwYXMlMjBNaWRkbGUlMjBDbGFzc3xlbnwwfHx8fDE3NjI1MTU5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Everyday Things You Do That Instantly Mark You as Middle Class.md</guid>
-      <category>'Middle Class'</category>
-      <category>'Everyday Life'</category>
-      <category>'Resilience'</category>
-      <category>'Financial Habits'</category>
-      <category>'Social Observation'</category>
+      <category>Middle Class</category>
+      <category>Everyday Life</category>
+      <category>Resilience</category>
+      <category>Financial Habits</category>
+      <category>Social Observation</category>
       <content:encoded>&lt;![CDATA[---
 Title: 9 Everyday Things You Do That Instantly Mark You as Middle Class
 Summary: The quiet habits and unspoken understandings that reveal a life lived with careful calculation, where resilience is built into the daily routine.
-Tags: ['Middle Class', 'Everyday Life', 'Resilience', 'Financial Habits', 'Social Observation']
+Tags: [Middle Class, Everyday Life, Resilience, Financial Habits, Social Observation]
 Image: https://images.unsplash.com/photo-1665809052658-32e8e35fba92?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw2fHw5JTIwRXZlcnlkYXklMjBUaGluZ3MlMjBZb3UlMjBEbyUyMFRoYXQlMjBJbnN0YW50bHklMjBNYXJrJTIwWW91JTIwYXMlMjBNaWRkbGUlMjBDbGFzc3xlbnwwfHx8fDE3NjI1MTU5MTZ8MA&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-08T07:17:17.534556+00:00
 EditedAt: 2025-11-08T07:17:17.534556+00:00
@@ -221,15 +221,15 @@ These everyday habits aren't just random acts; [they are the](quiet-luxury-habit
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Milestones Boomers Valued, That Gen Z Is Quietly Rewriting.md</link>
       <image>https://images.unsplash.com/photo-1633500182308-539c1b53dd51?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxNHx8d29tYW4lMjB3aXRoJTIwYmFieSUyMG9uJTIwaGVyJTIwYmFjayUyMGhpa2luZyUyMGFuJTIwYWR2ZW50ZXJvdXMlMjBwYXRoJTIwb24lMjB0b3AlMjBvZiUyMGElMjBtb3VudGFpbiUwQSUwQXxlbnwwfHx8fDE3NjI1MjE3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Milestones Boomers Valued, That Gen Z Is Quietly Rewriting.md</guid>
-      <category>'Gen Z'</category>
-      <category>'Baby Boomers'</category>
-      <category>'Milestones'</category>
-      <category>'Generational Differences'</category>
-      <category>'Personal Growth'</category>
+      <category>Gen Z</category>
+      <category>Baby Boomers</category>
+      <category>Milestones</category>
+      <category>Generational Differences</category>
+      <category>Personal Growth</category>
       <content:encoded>&lt;![CDATA[---
 Title: 9 Milestones Boomers Valued, That Gen Z Is Quietly Rewriting
 Summary: The definition of a &quot;successful life&quot; is shifting, with a new generation quietly redefining what truly matters, moving away from traditional markers of achievement.
-Tags: ['Gen Z', 'Baby Boomers', 'Milestones', 'Generational Differences', 'Personal Growth']
+Tags: [Gen Z, Baby Boomers, Milestones, Generational Differences, Personal Growth]
 Image: https://images.unsplash.com/photo-1633500182308-539c1b53dd51?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxNHx8d29tYW4lMjB3aXRoJTIwYmFieSUyMG9uJTIwaGVyJTIwYmFjayUyMGhpa2luZyUyMGFuJTIwYWR2ZW50ZXJvdXMlMjBwYXRoJTIwb24lMjB0b3AlMjBvZiUyMGElMjBtb3VudGFpbiUwQSUwQXxlbnwwfHx8fDE3NjI1MjE3NzZ8MA&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-08T07:17:17.544129+00:00
 EditedAt: 2025-11-08T07:17:17.544129+00:00
@@ -274,16 +274,16 @@ The quiet shift in what we consider &quot;successful&quot; isn't a rejection of 
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Things That Feel Normal in Middle-Class Homes but Screams _New Money_ to Old-M.md</link>
       <image>https://images.unsplash.com/photo-1747336754870-ca7b10cc75f5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw3fHxtaW5pbWFsaXN0JTIwbGl2aW5nJTIwc3BhY2UlMjBwbGFudHN8ZW58MHx8fHwxNzYyNTIxMTA4fDA&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/9 Things That Feel Normal in Middle-Class Homes but Screams _New Money_ to Old-M.md</guid>
-      <category>'Social Dynamics'</category>
-      <category>'Wealth'</category>
-      <category>'Lifestyle'</category>
-      <category>'Home Decor'</category>
-      <category>'Etiquette'</category>
-      <category>'Mindfulness'</category>
+      <category>Social Dynamics</category>
+      <category>Wealth</category>
+      <category>Lifestyle</category>
+      <category>Home Decor</category>
+      <category>Etiquette</category>
+      <category>Mindfulness</category>
       <content:encoded>&lt;![CDATA[---
 Title: 9 Subtle Habits That Whisper 'New Money' to Old-Money Families
 Summary: In the quiet language of homes, subtle habits reveal more than wealth; they speak to its history. Discover the unspoken cues that distinguish inherited prosperity from recent acquisition.
-Tags: ['Social Dynamics', 'Wealth', 'Lifestyle', 'Home Decor', 'Etiquette', 'Mindfulness']
+Tags: [Social Dynamics, Wealth, Lifestyle, Home Decor, Etiquette, Mindfulness]
 Image: https://images.unsplash.com/photo-1747336754870-ca7b10cc75f5?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw3fHxtaW5pbWFsaXN0JTIwbGl2aW5nJTIwc3BhY2UlMjBwbGFudHN8ZW58MHx8fHwxNzYyNTIxMTA4fDA&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-09T05:28:56.520241+00:00
 EditedAt: 2025-11-09T05:28:56.520241+00:00
@@ -327,15 +327,15 @@ These observations aren't about right or wrong, but about the subtle distinction
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/If You Grew Up Poor_ These 10 Money Habits Are Still Sabotaging Your Adult Life .md</link>
       <image>https://images.unsplash.com/photo-1664027337355-b2bb1c4dc463?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHw5JTIwVGhpbmdzJTIwVGhhdCUyMEZlZWwlMjBOb3JtYWwlMjBpbiUyME1pZGRsZS1DbGFzcyUyMEhvbWVzJTIwYnV0JTIwU2NyZWFtcyUyMCUyMk5ldyUyME1vbmV5JTIyJTIwdG8lMjBPbGQtTW9uZXklMjBGYW1pbGllc3xlbnwwfHx8fDE3NjI2MzEzMDN8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/If You Grew Up Poor_ These 10 Money Habits Are Still Sabotaging Your Adult Life .md</guid>
-      <category>'Scarcity Mindset'</category>
-      <category>'Money Habits'</category>
-      <category>'Adulting'</category>
-      <category>'Personal Finance'</category>
-      <category>'Financial Wellness'</category>
+      <category>Scarcity Mindset</category>
+      <category>Money Habits</category>
+      <category>Adulting</category>
+      <category>Personal Finance</category>
+      <category>Financial Wellness</category>
       <content:encoded>&lt;![CDATA[---
 Title: If You Grew Up Poor, These 10 Money Habits Are Still Sabotaging Your Adult Life in 2025
 Summary: Growing up with scarcity leaves a quiet mark, shaping our relationship with money long after circumstances change. This essay explores 10 ingrained habits and gentle ways to rewrite those narratives for lasting financial and emotional freedom.
-Tags: ['Scarcity Mindset', 'Money Habits', 'Adulting', 'Personal Finance', 'Financial Wellness']
+Tags: [Scarcity Mindset, Money Habits, Adulting, Personal Finance, Financial Wellness]
 Image: https://images.unsplash.com/photo-1664027337355-b2bb1c4dc463?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHw5JTIwVGhpbmdzJTIwVGhhdCUyMEZlZWwlMjBOb3JtYWwlMjBpbiUyME1pZGRsZS1DbGFzcyUyMEhvbWVzJTIwYnV0JTIwU2NyZWFtcyUyMCUyMk5ldyUyME1vbmV5JTIyJTIwdG8lMjBPbGQtTW9uZXklMjBGYW1pbGllc3xlbnwwfHx8fDE3NjI2MzEzMDN8MA&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-09T05:28:56.538084+00:00
 EditedAt: 2025-11-09T05:28:56.538084+00:00
@@ -393,19 +393,19 @@ Breaking these deeply ingrained habits is a journey, not a destination. It requi
       <link>https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/Quiet Luxury Habits.md</link>
       <image>https://images.unsplash.com/photo-1746549835375-c86dcb92c8da?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxRdWlldCUyMEx1eHVyeSUyMEhhYml0c3xlbnwwfHx8fDE3NjI2MzE0MTd8MA&amp;ixlib=rb-4.1.0&amp;q=85</image>
       <guid isPermaLink="false">https://raw.githubusercontent.com/ljlabs/vynder-blog/refs/heads/main/livePosts/Quiet Luxury Habits.md</guid>
-      <category>'Quiet Luxury'</category>
-      <category>'Morning Routine'</category>
-      <category>'Wealth Habits'</category>
-      <category>'Stealth Wealth'</category>
-      <category>'Mindfulness'</category>
-      <category>'Daily Rituals'</category>
-      <category>'Self-Care'</category>
-      <category>'Disconnection'</category>
-      <category>'Intentional Living'</category>
+      <category>Quiet Luxury</category>
+      <category>Morning Routine</category>
+      <category>Wealth Habits</category>
+      <category>Stealth Wealth</category>
+      <category>Mindfulness</category>
+      <category>Daily Rituals</category>
+      <category>Self-Care</category>
+      <category>Disconnection</category>
+      <category>Intentional Living</category>
       <content:encoded>&lt;![CDATA[---
 Title: Quiet Luxury Habits: 8 Morning Routines Rich People Never Post About (But Do Every Day)
 Summary: In a world of curated feeds, true affluence often thrives in the quiet, unseen moments. Discover the understated morning rituals that cultivate peace, purpose, and resilience, far from the clamor of external validation.
-Tags: ['Quiet Luxury', 'Morning Routine', 'Wealth Habits', 'Stealth Wealth', 'Mindfulness', 'Daily Rituals', 'Self-Care', 'Disconnection', 'Intentional Living']
+Tags: [Quiet Luxury, Morning Routine, Wealth Habits, Stealth Wealth, Mindfulness, Daily Rituals, Self-Care, Disconnection, Intentional Living]
 Image: https://images.unsplash.com/photo-1746549835375-c86dcb92c8da?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxRdWlldCUyMEx1eHVyeSUyMEhhYml0c3xlbnwwfHx8fDE3NjI2MzE0MTd8MA&amp;ixlib=rb-4.1.0&amp;q=85
 PublishedAt: 2025-11-09T05:28:56.548160+00:00
 EditedAt: 2025-11-09T05:28:56.548160+00:00
