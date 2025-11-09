@@ -1,14 +1,8 @@
 ---
 Title: Quiet Luxury Habits: 8 Morning Routines Rich People Never Post About (But Do Every Day)
-Summary: From $400 linen sheets to 9 p.m. phone curfews-the understated rituals that separate "stealth wealth" from influencers pretending.
-Tags: [Quiet Luxury, Morning Routine, Wealth Habits, Stealth Wealth, Mindfulness, Daily Rituals, Self-Care, Disconnection, Intentional Living]
-Image: https://images.unsplash.com/photo-1517048676732-d65bc9af597f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxhZHVsdCUyMGNoaWxkaG9vZCUyMG1lbW9yaWVzJTIwZm9vZHxlbnwwfHx8fDE3NjY1MjY2NjB8MA&ixlib=rb-4.1.0&q=85
----
----
-Title: Beyond the Feed: 8 Morning Rituals of Quiet Luxury
 Summary: In a world of curated feeds, true affluence often thrives in the quiet, unseen moments. Discover the understated morning rituals that cultivate peace, purpose, and resilience, far from the clamor of external validation.
-Tags: [Quiet Luxury, Morning Rituals, Mindfulness, Self-Care, Inner Peace, Resilience, Intentional Living, Authenticity]
-Image: https://images.unsplash.com/photo-1602810440890-82b4eb233d0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3YWtpbmclMjB1cCUyMGluJTIwbHV4dXJ5JTIwbGluZW4lMjBzaGVldHN8ZW58MHx8fHwxNzYyNjMwNTA3fDA&lib=rb-4.1.0&q=85
+Tags: [Quiet Luxury, Morning Routine, Wealth Habits, Stealth Wealth, Mindfulness, Daily Rituals, Self-Care, Disconnection, Intentional Living]
+Image: https://images.unsplash.com/photo-1746549835375-c86dcb92c8da?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw4fHxRdWlldCUyMEx1eHVyeSUyMEhhYml0c3xlbnwwfHx8fDE3NjI2MzE0MTd8MA&ixlib=rb-4.1.0&q=85
 ---
 In a world saturated with curated feeds and performative displays, there exists a different kind of affluence-one that thrives in the shadows of social media, valuing substance over spectacle. This isn't about flashy cars or designer logos; it's about an ingrained way of living, a quiet confidence that doesn't need an audience. For those who embody this quiet luxury, the morning isn't a race to catch up, but a deliberate cultivation of peace and purpose. These are the understated rituals, often invisible to the outside world, that shape their days and define their resilience. They are habits born not of trend, but of a deep understanding of what truly nourishes the self, far from the clamor of external validation.
 

@@ -1,14 +1,8 @@
 ---
 Title: If You Grew Up Poor, These 10 Money Habits Are Still Sabotaging Your Adult Life in 2025
-Summary: Therapist-approved ways to break the scarcity mindset loops that keep former poor kids under-earning and over-apologizing.
-Tags: [Scarcity Mindset, Financial Trauma, Money Habits, Adulting, Personal Finance, Therapy, Self-Worth, Financial Wellness, Breaking Cycles]
-Image: https://images.unsplash.com/photo-1517048676732-d65bc9af597f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxhZHVsdCUyMGNoaWxkaG9vZCUyMG1lbW9yaWVzJTIwZm9vZHxlbnwwfHx8fDE3NjY1MjY2NjB8MA&ixlib=rb-4.1.0&q=85
----
----
-Title: The Quiet Echoes of Scarcity: 10 Money Habits That Persist
 Summary: Growing up with scarcity leaves a quiet mark, shaping our relationship with money long after circumstances change. This essay explores 10 ingrained habits and gentle ways to rewrite those narratives for lasting financial and emotional freedom.
-Tags: [Scarcity Mindset, Financial Habits, Personal Growth, Resilience, Emotional Healing, Money Psychology, Self-Compassion]
-Image: https://images.unsplash.com/photo-1605380911241-60fef15fa8e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldGx5JTIwY29udGVtcGxhdGluZyUyMGZ1dHVyZSUyMGdvYWxzfGVufDB8fHx8MTc2MjUxOTU3Mnww&ixlib=rb-4.1.0&q=85
+Tags: [Scarcity Mindset, Money Habits, Adulting, Personal Finance, Financial Wellness]
+Image: https://images.unsplash.com/photo-1664027337355-b2bb1c4dc463?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHw5JTIwVGhpbmdzJTIwVGhhdCUyMEZlZWwlMjBOb3JtYWwlMjBpbiUyME1pZGRsZS1DbGFzcyUyMEhvbWVzJTIwYnV0JTIwU2NyZWFtcyUyMCUyMk5ldyUyME1vbmV5JTIyJTIwdG8lMjBPbGQtTW9uZXklMjBGYW1pbGllc3xlbnwwfHx8fDE3NjI2MzEzMDN8MA&ixlib=rb-4.1.0&q=85
 ---
 Growing up without enough leaves an indelible mark, a quiet echo that can follow us long after our circumstances change. It's not just about the empty cupboards or the worn-out shoes; it's about the scarcity mindset that takes root, shaping our perceptions of money, worth, and opportunity. Even when we've built a life of stability, these old patterns can subtly sabotage our adult lives, keeping us in loops of under-earning, over-apologizing, and a persistent feeling that we're never quite "enough."
 

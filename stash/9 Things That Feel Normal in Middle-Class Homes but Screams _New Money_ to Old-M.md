@@ -1,10 +1,4 @@
 ---
-Title: 9 Things That Feel Normal in Middle-Class Homes but Screams "New Money" to Old-Money Families
-Summary: The subtle home decor, grocery, and etiquette mistakes that instantly reveal someone grew up post-1980, according to a fourth-generation heiress.
-Tags: [Old Money, New Money, Etiquette, Home Decor, Grocery Habits, Social Class, Generational Differences, Subtle Cues]
-Image: https://images.unsplash.com/photo-1517048676732-d65bc9af597f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxzZWNyZXQlMjBzb2NpYWwlMjBjbGFzcyUyMGNvZGVzfGVufDB8fHx8MTc2MjYyOTM0OHww&ixlib=rb-4.1.0&q=85
----
----
 Title: 9 Subtle Habits That Whisper 'New Money' to Old-Money Families
 Summary: In the quiet language of homes, subtle habits reveal more than wealth; they speak to its history. Discover the unspoken cues that distinguish inherited prosperity from recent acquisition.
 Tags: [Social Dynamics, Wealth, Lifestyle, Home Decor, Etiquette, Generational Differences, Mindfulness]
