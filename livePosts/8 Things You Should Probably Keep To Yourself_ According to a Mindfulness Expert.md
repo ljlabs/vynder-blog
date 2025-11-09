@@ -1,7 +1,7 @@
 ---
 Title: 8 Ways Keeping Things Private Is a Quiet Strenth, According to a Mindfulness Expert
 Summary: In a world that demands constant sharing, discover the quiet wisdom of cultivating an inner sanctuary, where true resilience and authenticity take root away from external noise.
-Tags: ['Mindfulness', 'Privacy', 'Self Care', 'Personal Growth', 'Resilience']
+Tags: [Mindfulness, Privacy, Self Care, Personal Growth, Resilience]
 Image: https://images.unsplash.com/photo-1605380911241-60fef15fa8e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBxdWlldGx5JTIwY29udGVtcGxhdGluZyUyMGZ1dHVyZSUyMGdvYWxzfGVufDB8fHx8MTc2MjUxOTU3Mnww&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-08T07:17:17.517264+00:00
 EditedAt: 2025-11-08T07:17:17.517264+00:00

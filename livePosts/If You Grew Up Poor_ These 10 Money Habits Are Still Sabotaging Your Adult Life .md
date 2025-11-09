@@ -1,7 +1,7 @@
 ---
 Title: If You Grew Up Poor, These 10 Money Habits Are Still Sabotaging Your Adult Life in 2025
 Summary: Growing up with scarcity leaves a quiet mark, shaping our relationship with money long after circumstances change. This essay explores 10 ingrained habits and gentle ways to rewrite those narratives for lasting financial and emotional freedom.
-Tags: ['Scarcity Mindset', 'Money Habits', 'Adulting', 'Personal Finance', 'Financial Wellness']
+Tags: [Scarcity Mindset, Money Habits, Adulting, Personal Finance, Financial Wellness]
 Image: https://images.unsplash.com/photo-1664027337355-b2bb1c4dc463?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHw5JTIwVGhpbmdzJTIwVGhhdCUyMEZlZWwlMjBOb3JtYWwlMjBpbiUyME1pZGRsZS1DbGFzcyUyMEhvbWVzJTIwYnV0JTIwU2NyZWFtcyUyMCUyMk5ldyUyME1vbmV5JTIyJTIwdG8lMjBPbGQtTW9uZXklMjBGYW1pbGllc3xlbnwwfHx8fDE3NjI2MzEzMDN8MA&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-09T05:28:56.538084+00:00
 EditedAt: 2025-11-09T05:28:56.538084+00:00
