@@ -5,6 +5,7 @@ Tags: [Nostalgia, Working Class, Comfort Food, Gen Z, Food Trends]
 Image: https://images.unsplash.com/photo-1568342015942-6f399210edbf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxMXx8QSUyMHNsaWNlJTIwb2YlMjBtZWF0bG9hZiUyMHdpdGglMjBtYXNoZWQlMjBwb3RhdG9lcyUyMGFuZCUyMGdyZWVuJTIwYmVhbnMufGVufDB8fHx8MTc2MjYzMDA4MHww&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-09T05:28:56.431653+00:00
 EditedAt: 2025-11-09T05:28:56.431653+00:00
+has_links: True
 ---
 There's a quiet hum that echoes from the kitchens of the 1980s, a symphony of bubbling casseroles, sizzling ground beef, and the gentle clinking of forks against melamine plates. For working-class kids, weeknight dinners weren't about culinary adventure or artisanal ingredients; they were about sustenance, efficiency, and a comforting predictability after a long day. These meals were the backbone of countless [households,](https://vynder.co.za/articles/9-subtle-habits-that-whisper-new-money-to-old-money-families) stretching budgets and filling bellies with a warmth that went beyond mere calories. They were simple, often humble, and deeply ingrained in the fabric of our childhoods.
 

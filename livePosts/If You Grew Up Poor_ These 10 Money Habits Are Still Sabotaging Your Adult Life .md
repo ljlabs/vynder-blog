@@ -5,6 +5,7 @@ Tags: [Scarcity Mindset, Money Habits, Adulting, Personal Finance, Financial Wel
 Image: https://images.unsplash.com/photo-1664027337355-b2bb1c4dc463?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxfHw5JTIwVGhpbmdzJTIwVGhhdCUyMEZlZWwlMjBOb3JtYWwlMjBpbiUyME1pZGRsZS1DbGFzcyUyMEhvbWVzJTIwYnV0JTIwU2NyZWFtcyUyMCUyMk5ldyUyME1vbmV5JTIyJTIwdG8lMjBPbGQtTW9uZXklMjBGYW1pbGllc3xlbnwwfHx8fDE3NjI2MzEzMDN8MA&ixlib=rb-4.1.0&q=85
 PublishedAt: 2025-11-09T05:28:56.538084+00:00
 EditedAt: 2025-11-09T05:28:56.538084+00:00
+has_links: True
 ---
 Growing up without enough leaves an indelible mark, a quiet echo that can follow us long after our circumstances change. It's not just about the empty cupboards or the worn-out shoes; it's about the scarcity mindset that takes root, shaping our perceptions of money, worth, and opportunity. Even when we've built a life of stability, these old patterns can subtly sabotage our adult lives, keeping us in loops of under-earning, over-apologizing, and a persistent feeling that we're never quite "enough."
 
