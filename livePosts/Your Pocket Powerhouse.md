@@ -13,7 +13,7 @@ This isn't about compromising or settling for less; it's about discovering those
 
 Here are our top picks for budget phones that deliver:
 
-### 1. Oukitel P1: The Unexpected Performer
+### 1. [Oukitel P1](https://www.takealot.com/oukitel-p1-6-7-inch-5150mah-24gb-ram-256gb-rom-dual-sim-nfc/PLID97005541): The Unexpected Performer
 
 ![A close up of a cell phone on a table](https://images.unsplash.com/photo-1642052502412-483a09ecdd37?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw3fHxidWRnZXQlMjBzbWFydHBob25lJTIwc291dGglMjBhZnJpY2F8ZW58MHx8fHwxNzYyNzU1MDc0fDA&ixlib=rb-4.1.0&q=85)
 
@@ -29,7 +29,7 @@ The Oukitel P1 might not carry the weight of a household name, but it's a quiet 
 *   **Battery:** 5150mAh with 18W fast charging
 *   **Features:** Under-screen fingerprint, NFC, Dual SIM
 
-### 2. Samsung Galaxy A06: The Reliable Workhorse
+### 2. [Samsung Galaxy A06](https://www.takealot.com/samsung-galaxy-a06-64gb-dual-sim-blueblack/PLID95955564): The Reliable Workhorse
 
 ![A close up of a cell phone on a surface](https://images.unsplash.com/photo-1702451462735-3f0ba7679641?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw5fHxidWRnZXQlMjBzbWFydHBob25lJTIwc291dGglMjBhZnJpY2F8ZW58MHx8fHwxNzYyNzU1MDc0fDA&lib=rb-4.1.0&q=85)
 
@@ -45,7 +45,7 @@ Samsung has long been a trusted name in South Africa, a familiar presence in cou
 *   **Battery:** 5000mAh with 25W fast charging
 *   **Features:** Side fingerprint sensor, Dual SIM
 
-### 3. Xiaomi Redmi A5: The Entertainment Hub
+### 3. [Xiaomi Redmi A5](https://www.takealot.com/xiaomi-redmi-a5-128gb-lte-dual-sim-sandy-gold/PLID98004454): The Entertainment Hub
 
 ![A hand holds a smartphone with an appealing interface.](https://images.unsplash.com/photo-1752363723987-f29d0e1d155a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHwxOHx8YnVkZ2V0JTIwc21hcnRwaG9uZSUyMHNvdXRoJTIwYWZncmF8ZW58MHx8fHwxNzYyNzU1MDc0fDA&lib=rb-4.1.0&q=85)
 
@@ -61,7 +61,7 @@ Xiaomi has carved out a quiet niche for itself by consistently delivering incred
 *   **Battery:** 5200mAh with 15W fast charging
 *   **Features:** Side fingerprint sensor, AI face unlock, Dual SIM, Wet touch technology
 
-### 4. Honor X6c: Built Tough for Everyday Life
+### 4. [Honor X6c](https://www.takealot.com/honor-x6c-128gb-lte-dual-sim-ocean-cyan/PLID98665961): Built Tough for Everyday Life
 
 ![A close up of a cell phone on a table](https://images.unsplash.com/photo-1726900303586-fd05e7de9dbd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHNlYXJjaHw0fHxidWRnZXQlMjBzbWFydHBob25lJTIwc291dGglMjBhZnJpY2F8ZW58MHx8fHwxNzYyNzU1MDc0fDA&lib=rb-4.1.0&q=85)
 
@@ -77,7 +77,7 @@ Life in South Africa, with its vibrant energy and unexpected moments, can be tou
 *   **Battery:** 5300mAh with 35W HONOR SuperCharge
 *   **Features:** Side fingerprint sensor, IP64 water and dust resistance, AI button, Dual SIM
 
-### 5. Huawei Nova Y72s: The Battery Beast with a Twist
+### 5. [Huawei Nova Y72s](https://www.takealot.com/huawei-nova-y72s-8gb-128gb-dual-sim-6000mah-super-battery-smartp/PLID96999505): The Battery Beast with a Twist
 
 ![black android smartphone on black textile](https://images.unsplash.com/photo-1615992174118-9b8e9be025e7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjU2NDV8MHwxfHx3ZWFsdGh8ZW58MHx8fHwxNzYyNjY1ODY0fDA&lib=rb-4.1.0&q=85)
 
